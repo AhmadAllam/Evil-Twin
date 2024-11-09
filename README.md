@@ -1,6 +1,6 @@
 # Info
 Follow the instructions in the script and 
-Simply, you can run the evil twin on your Android phone with NetHunter.
+Simply, you can run the evil twin attack on your Android phone with NetHunter.
 
 ## Features
 
@@ -35,3 +35,8 @@ To run the script, use the following command:
 ```bash
 ./evil.sh
 ```
+## Authors
+
+- **Developer:** Ahmad Allam
+  - Telegram: [@echo_Allam](https://t.me/echo_Allam)
+  - Remember Palestine ❤️
