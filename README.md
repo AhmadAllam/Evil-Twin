@@ -1,5 +1,5 @@
 # Info
-Follow the instructions in the script :)
+Follow the instructions in the script and 
 Simply, you can run the evil twin on your Android phone with NetHunter.
 
 ## Features
