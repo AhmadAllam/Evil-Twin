@@ -1,4 +1,4 @@
-# Wireless Adapter Setup Script
+# info
 
 Simply, you can run the evil twin on your Android phone with NetHunter.
 
@@ -21,4 +21,3 @@ Simply, you can run the evil twin on your Android phone with NetHunter.
    ```
    - `<target_mac_address>`: MAC address of the target device.
    - `<channel_number>`: Channel number to be used.
-## 
